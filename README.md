@@ -1,4 +1,4 @@
-[![efebeybolat](https://github.com/Efebeybolat/efebeybolat.github.io/assets/png/Efebeybolat Banner.png?raw=true)](https://efebeybolat.github.io/)
+[![efebeybolat](https://efebeybolat.github.io/assets/png/Efebeybolat Banner.png?raw=true)](https://efebeybolat.github.io/)
 <p align="center">
    <a href="https://discord.com/users/521771131385151488" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/31aac5pvykdvab4rwdkuzjyfezuy" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
