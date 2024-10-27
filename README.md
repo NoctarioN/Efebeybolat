@@ -10,5 +10,6 @@
 <div align="center">
    <a href="https://discord.com/users/521771131385151488" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/521771131385151488?bg=111111">
+      <img src="https://dc.redhub.tr/api/user/521771131385151488">
    </a>
 </div>
